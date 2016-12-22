@@ -9,7 +9,7 @@ var Examples = React.createClass({
     return (
 
       <div>
-        <h3>className="text-center" Examples!</h3>
+        <h3 className="text-center"> Examples!</h3>
         <p>Here are a few example locations to try out</p>
         <ol>
           <li>
